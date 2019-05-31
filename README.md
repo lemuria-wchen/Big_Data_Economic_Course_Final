@@ -1,4 +1,4 @@
-# Big_Data_Economic_Course_Final 大数据金融课程final，
+# 大数据金融课程final
 
 本次期末作业一共提供5个项目给同学们选择，<font color="red" size=4>*每个同学必须在以下5个项目选择1个*</font>，每个项目的详情请点击以下链接。
 
