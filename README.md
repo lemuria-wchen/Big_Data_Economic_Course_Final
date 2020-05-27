@@ -4,6 +4,8 @@
 
 ### 经济大数据分析期末课程项目安排
 
+- <font color="red" size=4>*[气候变化文献数据挖掘](https://github.com/FDU-SDS/Big_Data_Economic_Course_Final/blob/master/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%84%E9%A1%B9%E7%9B%AE%EF%BC%9A%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E6%96%87%E7%8C%AE%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.md)*</font>
+
 - <font color="red" size=4>*[上市公司评级分析](https://github.com/FDU-SDS/Big_Data_Economic_Course_Final/blob/master/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%84%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%AF%84%E7%BA%A7%E5%88%86%E6%9E%90)*</font>
 
 - <font color="red" size=4>*[美国企业进口特征分析](https://github.com/FDU-SDS/Big_Data_Economic_Course_Final/blob/master/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%84%E9%A1%B9%E7%9B%AE%EF%BC%9A%E4%BC%81%E4%B8%9A%E7%87%83%E7%85%A4%E6%95%B0%E6%8D%AE%E8%A1%A5%E7%BC%BA.md)*</font>
