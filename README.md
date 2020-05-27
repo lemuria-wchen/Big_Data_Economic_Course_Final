@@ -16,8 +16,8 @@
 
 ### 课程项目时间节点
 
-* <font color=red size=4>*2019年6月11日中期汇报（汇报中期进度与初步成果）*</font>
+* <font color=red size=4>*2020年6月11日中期汇报（汇报中期进度与初步成果）*</font>
 
-* <font color=red size=4>*2019年6月29日终稿（上传最终代码、报告）*</font>
+* <font color=red size=4>*2020年6月29日终稿（上传最终代码、报告）*</font>
 
 * <font color=red size=4>*项目代码要求使用Python或者R，推荐优先使用Python*</font>
