@@ -22,4 +22,4 @@
 
 * <font color=red size=4>*2020年6月29日终稿（上传最终代码、报告）*</font>
 
-* <font color=red size=4>*项目代码要求使用Python或者R，推荐优先使用Python*</font>
+* <font color=red size=4>*项目代码要求使用 Python 或者 R*</font>
